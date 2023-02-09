@@ -1,0 +1,9 @@
+id: 01GRTZWS0CCZC6W89SWN5VWKMP
+description: ''
+expected: LINE
+patterns:
+  - line
+  - Line
+allows: []
+specs: []
+tags: []
